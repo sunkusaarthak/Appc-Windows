@@ -26,7 +26,7 @@ cd Appc-Windows
 git checkout -b <your_branch_name>
 ```
 
-### Note: Don't add directly in main.❌❌❌
+### Note: Don't add directly in master.❌❌❌
 
 
 5. Make changes.
