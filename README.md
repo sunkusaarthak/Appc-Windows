@@ -1,6 +1,8 @@
 # Appc-Windows
 Widows based C# application for college
 
+![appc windows](https://user-images.githubusercontent.com/59611699/216269826-bf3d161a-0b05-47aa-ac25-4cabe8588f5a.gif)
+
 
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project!
 
